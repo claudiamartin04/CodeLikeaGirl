@@ -3,6 +3,11 @@ h1 {
     background-color:#5485eeb2;
     font-family: neon;
 }
+h2 {
+    text-align: center;
+    background-color: lightpink;
+    font-family: cursive;;
+}
 #titulo3 {
     border: solid 2px;
     font-family: arial;
