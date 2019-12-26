@@ -1,7 +1,10 @@
-var time= Date ();
+var time= new Date ();
 var color;
  if(time==12) ¨{
-     color="rojo";
- } else if(time==15)
-    color ="amarillo";
-else if (verde)
+     color="red";
+ } else if(time==15)  {
+ color ="green"; {
+
+ }  else }
+    color="yellow"
+    
