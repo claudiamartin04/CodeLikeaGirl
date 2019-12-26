@@ -30,3 +30,7 @@ body {
 .green {
     background-color: rgba(255, 0, 157, 0.411);
 }
+.beautiful {
+    visibility: hidden;
+    display: inherit;
+}
