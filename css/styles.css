@@ -1,0 +1,27 @@
+h1 {
+    text-align: center;
+    background-color:#5485eeb2;
+    font-family: monospace;
+}
+#titulo3 {
+    border: solid 2px;
+    font-family: arial;
+    text-align: center;
+}
+
+body {
+    margin: 50px;
+}
+
+.mi-li{
+    color: violet;
+}
+.red {
+    background-color: red;
+}
+.yellow {
+    background-color: yellow;
+}
+.green {
+    background-color: green;
+}
