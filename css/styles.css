@@ -22,11 +22,11 @@ body {
     color: violet;
 }
 .red {
-    background-color: red;
+    background-color: rgba(255, 0, 157, 0.411);
 }
 .yellow {
-    background-color: yellow;
+    background-color:rgba(255, 0, 157, 0.411);
 }
 .green {
-    background-color: green;
+    background-color: rgba(255, 0, 157, 0.411);
 }
