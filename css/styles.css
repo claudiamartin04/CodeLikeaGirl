@@ -13,7 +13,12 @@ h3 {
     font-family: arial;
     text-align: center;
 }
-
+h2.titulo-centrado{
+    text-align: center;
+}
+.block-container{
+    margin-top: 50px;
+}
 body {
     margin: 50px;
 }
@@ -33,4 +38,11 @@ body {
 .beautiful {
     visibility: hidden;
     display: inherit;
+}
+.makeup {
+    background-image: url('../img/makeup2.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+    width: 100%;
 }
